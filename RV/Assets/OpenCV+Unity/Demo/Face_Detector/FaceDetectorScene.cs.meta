@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 3b2b24c14875ff247ba3df65ab97978c
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - Surface: {instanceID: 0}
+  - faces: {instanceID: 0}
+  - eyes: {instanceID: 0}
+  - shapes: {fileID: 4900000, guid: a5b5f0f0564f686498cdf6c6a5716821, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
